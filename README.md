@@ -20,4 +20,5 @@ Este taller requiere un conocimiento básico de estadística, pero no experienci
   - Archivos csv
   - Dataframes
   - Análisis de Regresión (lineal, lineal múltiple, polinómica)
-- ANOVA
+  - ANOVA
+
